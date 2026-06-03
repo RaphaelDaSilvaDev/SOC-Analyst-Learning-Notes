@@ -1,5 +1,13 @@
 # SOC Analyst Learning Notes
 
+<div align="center">
+
+![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-blue)
+![CyberSecurity](https://img.shields.io/badge/Focus-Blue%20Team-green)
+![Language](https://img.shields.io/badge/Language-Português-yellow)
+
+</div>
+
 Repositório criado para documentar minha jornada de estudos em Cyber Security, com foco em Blue Team, Security Operations Center (SOC), Threat Detection e Incident Response.
 
 O objetivo deste projeto é consolidar conhecimentos adquiridos através de laboratórios, cursos, documentação oficial, livros e plataformas práticas como o LetsDefend.
@@ -20,22 +28,25 @@ O objetivo deste projeto é consolidar conhecimentos adquiridos através de labo
 
 ## Conteúdo
 
-### Introdução
+### Sumário
 
 - [O que é um SOC](./00-introduction.md)
+- [Cyber Kill Chain](./01-cyber-kill-chain.md)
 
 ### Em desenvolvimento
-
+- MITRE ATT&CK
+- Análise de email de phishing
 - SIEM
+- Análise de Malware
+- Análise Dinâmica de Malware
+- Ataques na Web
+- Análise de Documentos Maliciosos
+- Soluções de Segurança
+- Análise de log em rede
 - EDR
 - SOAR
 - IDS/IPS
-- Threat Intelligence
-- MITRE ATT&CK
-- Incident Response
-- Windows Event Logs
 - Active Directory
-- Network Security
 - Threat Hunting
 
 ---
@@ -44,17 +55,8 @@ O objetivo deste projeto é consolidar conhecimentos adquiridos através de labo
 
 ```text
 .
-├── 00-Introduction
-├── 01-SIEM
-├── 02-EDR
-├── 03-SOAR
-├── 04-Network-Security
-├── 05-Threat-Intelligence
-├── 06-MITRE-ATTACK
-├── 07-Incident-Response
-├── 08-Threat-Hunting
-├── 09-Windows-Events
-├── 10-Active-Directory
+├── 00-introduction.md
+├── 01-cyber-kill-chain.md
 ├── Assets
 └── README.md
 ```
@@ -83,6 +85,17 @@ O objetivo deste projeto é consolidar conhecimentos adquiridos através de labo
 - MITRE ATT&CK
 - NIST Cybersecurity Framework
 
+### Sistemas Operacionais
+
+- Windows
+- Linux
+
+### Redes
+
+- TCP/IP
+- DNS
+- HTTP/HTTPS
+- SMTP
 ---
 
 ## Fontes de Estudo
@@ -103,18 +116,26 @@ O objetivo deste projeto é consolidar conhecimentos adquiridos através de labo
 | Módulo | Status |
 |---------|---------|
 | Introdução ao SOC | ✅ |
+| Cyber Kill Chain | ✅ |
+| MITRE ATT&CK | ⏳ |
+| Análise de email de phishing | ⏳ |
 | SIEM | ⏳ |
+| Análise de Malware | ⏳ |
+| Análise Dinâmica de Malware | ⏳ |
+| Ataques na Web | ⏳ |
+| Análise de Documentos Maliciosos | ⏳ |
+| Soluções de Segurança | ⏳ |
+| Análise de log em rede | ⏳ |
 | EDR | ⏳ |
 | SOAR | ⏳ |
-| Threat Intelligence | ⏳ |
-| MITRE ATT&CK | ⏳ |
-| Incident Response | ⏳ |
+| IDS/IPS | ⏳ |
+| Active Directory | ⏳ |
 | Threat Hunting | ⏳ |
 
 ---
 
 ## Sobre
 
-Sou desenvolvedor de software em transição para a área de Cyber Security, com foco em Blue Team e SOC Operations.
+Sou profissional de tecnologia com experiência em desenvolvimento de software e atualmente estudando Cyber Security, com foco em Blue Team e SOC Operations.
 
 Este repositório serve como registro público da minha evolução técnica e aprendizado contínuo na área de segurança cibernética.

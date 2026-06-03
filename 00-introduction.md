@@ -75,3 +75,8 @@ Evidência de possível atividade maliciosa.
 * https://www.ibm.com/br-pt/think/topics/security-operations-center
 * https://www.microsoft.com/pt-br/security/business/security-101/what-is-a-security-operations-center-soc
 * https://www.paloaltonetworks.com.br/cyberpedia/what-is-a-soc
+
+---
+Criado em 02/06/2026
+
+Atualizado em 03/06/2026

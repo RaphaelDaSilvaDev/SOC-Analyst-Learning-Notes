@@ -34,7 +34,6 @@ O objetivo deste projeto é consolidar conhecimentos adquiridos através de labo
 - [Cyber Kill Chain](./01-cyber-kill-chain.md)
 
 ### Em desenvolvimento
-- MITRE ATT&CK
 - Análise de email de phishing
 - SIEM
 - Análise de Malware
@@ -117,7 +116,7 @@ O objetivo deste projeto é consolidar conhecimentos adquiridos através de labo
 |---------|---------|
 | Introdução ao SOC | ✅ |
 | Cyber Kill Chain | ✅ |
-| MITRE ATT&CK | ⏳ |
+| MITRE ATT&CK | ✅ |
 | Análise de email de phishing | ⏳ |
 | SIEM | ⏳ |
 | Análise de Malware | ⏳ |

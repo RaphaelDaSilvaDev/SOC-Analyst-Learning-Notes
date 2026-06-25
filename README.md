@@ -32,9 +32,9 @@ O objetivo deste projeto é consolidar conhecimentos adquiridos através de labo
 
 - [O que é um SOC](./00-introduction.md)
 - [Cyber Kill Chain](./01-cyber-kill-chain.md)
+- [Análise de email de phishing](./03-email_phishing.md)
 
 ### Em desenvolvimento
-- Análise de email de phishing
 - SIEM
 - Análise de Malware
 - Análise Dinâmica de Malware
@@ -117,7 +117,7 @@ O objetivo deste projeto é consolidar conhecimentos adquiridos através de labo
 | Introdução ao SOC | ✅ |
 | Cyber Kill Chain | ✅ |
 | MITRE ATT&CK | ✅ |
-| Análise de email de phishing | ⏳ |
+| Análise de email de phishing | ✅ |
 | SIEM | ⏳ |
 | Análise de Malware | ⏳ |
 | Análise Dinâmica de Malware | ⏳ |

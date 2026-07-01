@@ -30,9 +30,10 @@ O objetivo deste projeto é consolidar conhecimentos adquiridos através de labo
 
 ### Sumário
 
-- [O que é um SOC](./00-introduction.md)
-- [Cyber Kill Chain](./01-cyber-kill-chain.md)
-- [Análise de email de phishing](./03-email_phishing.md)
+- [O que é um SOC](./00-introduction/00-introduction.md)
+- [Cyber Kill Chain](./01-cyber-kill-chain/01-cyber-kill-chain.md)
+- [Mitre Att&ck](./02-mitre-att&ck/02-mitre-att&ck.md)
+- [Análise de email de phishing](./03-email-phishing/03-email-phishing.md)
 
 ### Em desenvolvimento
 - SIEM
@@ -54,15 +55,21 @@ O objetivo deste projeto é consolidar conhecimentos adquiridos através de labo
 
 ```text
 .
-├── assets
-├── 00-introduction.md
-├── 01-cyber-kill-chain.md
-├── 02-mitre_att&ck.md
-├── 03-email_phishing
-	├── assets
-	├── 03-email_phishing.md
-	├── SOC-140-lab.md
-	└── SOC-141-lab.md
+├── assets/
+├── 00-introduction/
+│   ├── assets/
+│   └── 00-introduction.md
+├── 01-cyber-kill-chain/
+│   ├── assets/
+│   └── 01-cyber-kill-chain.md
+├── 02-mitre-attack/
+│   ├── assets/
+│   └── 02-mitre-attack.md
+├── 03-email-phishing/
+│   ├── assets/
+│   ├── 03-email-phishing.md
+│   ├── SOC-140-lab.md
+│   └── SOC-141-lab.md
 └── README.md
 ```
 

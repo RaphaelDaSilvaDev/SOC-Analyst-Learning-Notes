@@ -54,9 +54,15 @@ O objetivo deste projeto é consolidar conhecimentos adquiridos através de labo
 
 ```text
 .
+├── assets
 ├── 00-introduction.md
 ├── 01-cyber-kill-chain.md
-├── Assets
+├── 02-mitre_att&ck.md
+├── 03-email_phishing
+	├── assets
+	├── 03-email_phishing.md
+	├── SOC-140-lab.md
+	└── SOC-141-lab.md
 └── README.md
 ```
 

@@ -34,9 +34,9 @@ O objetivo deste projeto é consolidar conhecimentos adquiridos através de labo
 - [Cyber Kill Chain](./01-cyber-kill-chain/01-cyber-kill-chain.md)
 - [Mitre Att&ck](./02-mitre-att&ck/02-mitre-att&ck.md)
 - [Análise de email de phishing](./03-email-phishing/03-email-phishing.md)
+- [Introdução ao SIEM](./04-siem/04-introducao-siem.md)
 
 ### Em desenvolvimento
-- SIEM
 - Análise de Malware
 - Análise Dinâmica de Malware
 - Ataques na Web
@@ -70,6 +70,9 @@ O objetivo deste projeto é consolidar conhecimentos adquiridos através de labo
 │   ├── 03-email-phishing.md
 │   ├── SOC-140-lab.md
 │   └── SOC-141-lab.md
+│ 04-siem/
+│    ├── assets/
+│    └── 04-introducao-siem.md
 └── README.md
 ```
 
@@ -82,6 +85,7 @@ O objetivo deste projeto é consolidar conhecimentos adquiridos através de labo
 - Splunk
 - IBM QRadar
 - Elastic Security
+- Wazuh
 
 ### EDR
 - CrowdStrike
